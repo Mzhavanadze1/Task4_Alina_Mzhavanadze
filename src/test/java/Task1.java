@@ -7,7 +7,6 @@ public class Task1 {
 
         int ricxvi= input.nextInt();
 
-
         if (ricxvi<60){
             System.out.println("Pasuxi: F");
         } else if (ricxvi>=60 && ricxvi <= 69) {
